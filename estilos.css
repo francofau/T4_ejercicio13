@@ -1,0 +1,44 @@
+* {
+font-weight:bold;
+
+}
+.tabla {
+   border: 1px solid #000;
+   width:95%;
+}
+
+th, td {
+   text-align: center;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-spacing: 0;
+   text-align: center;
+   width: 200px;
+  
+     
+}
+h4{    
+    text-align: center; 
+    margin:0;   
+}
+
+.cel1{
+    background-color:rgb(116, 233, 151);
+    text-align: center;
+}
+
+.cel2{
+    background-color: rgb(50, 231, 201);
+    text-align: left;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.trojo{
+    color: red;
+}
+
+.cel6{
+    background-color: rgb(235, 101, 184);
+    vertical-align:bottom ;
+}
